@@ -1,2 +1,2 @@
 # ApkShell
-apk�ӿ�ʵ�֣���ֹ������۸ĺ��Ĵ��룬��ǿ����ı���
+apk加壳实现，防止反编译篡改核心代码，加强代码的保护，核心思想利用java的反射机制替换app运行时默认的classloader来加载经过解密的dex(dex发布前经过加密)
